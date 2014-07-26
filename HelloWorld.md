@@ -1,5 +1,3 @@
 datasciencecoursera
 ===================
-
-My First repo
-Test - Repo
+## This is a markdown file
